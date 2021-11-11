@@ -11,7 +11,7 @@
 * GIT
 
 # HOW TO VISIT
-[click] {durodolaadeola.github.io/my-resort}
+[click] {durodolaadeola.github.io/account}
 
 
 # KNOWN BUGS
